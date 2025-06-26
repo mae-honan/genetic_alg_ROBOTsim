@@ -1,0 +1,16 @@
+The following files do not need to be updated
+- obstacle.py
+- goal.py (basically the same as obstacle.py)
+
+Files with TODO: tags
+The following files have various parameters that you will be able to modify to change the overall simulation
+Wait until things work with default parameters before changing things
+- main.py
+- simulation.py
+
+The following files will require doing some coding where it says TODO:
+- genetic_algorithm.py 
+    - _crossover()
+    - _mutate()
+- robot.py
+    - update()
