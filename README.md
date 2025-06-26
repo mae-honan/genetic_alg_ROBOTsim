@@ -1,1 +1,1 @@
-# genetic_alg_ROBOTsim
+# genetic algorithm simulation with robot+obstacles
